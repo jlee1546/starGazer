@@ -1,24 +1,45 @@
 .navbar {
-  background-color: rgb(43, 43, 198);
   padding: 1% 1% 5%;
 }
 
 .brand-icon {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
-.navbar a {
+.com-icon {
+  color: rgb(242, 242, 13);
+}
+
+.nav a {
   color: rgb(171, 169, 169);
 }
 
+.navbar-brand {
+  color: rgb(242, 242, 13);
+}
+
+#top {
+  background: linear-gradient(to bottom right, #009ffd, #2a2a72);
+}
+
 .top {
-  background-color: rgb(43, 43, 198);
   color: rgb(220, 220, 220);
 
   padding-bottom: 15%;
 }
 
+.form {
+  padding: 1%;
+  position: relative;
+  z-index: 5;
+}
+
 .details-icon {
   font-size: 2rem;
   color: rgb(43, 43, 198);
+  margin-bottom: 2rem;
+  display: block;
+}
+
+.bottom {
 }
