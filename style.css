@@ -28,10 +28,16 @@
   padding-bottom: 15%;
 }
 
+h1 {
+  font-size: 3rem;
+}
+
+#top-left-paragraph {
+  color: rgb(242, 242, 13);
+}
+
 .form {
   padding: 1%;
-  position: relative;
-  z-index: 5;
 }
 
 .details-icon {
@@ -39,7 +45,4 @@
   color: rgb(43, 43, 198);
   margin-bottom: 2rem;
   display: block;
-}
-
-.bottom {
 }
